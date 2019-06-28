@@ -25,8 +25,9 @@
 #import "TZLocationManager.h"
 #import "TZPhotoPreviewController.h"
 #import "TZPhotoPreviewCell.h"
+#import "TZAssetCell.h"
 
-@class TZAlbumCell, TZAssetCell;
+@class TZAlbumCell;
 @protocol TZImagePickerControllerDelegate;
 @interface TZImagePickerController : UINavigationController
 
